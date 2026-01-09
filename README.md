@@ -1,2 +1,2 @@
-# Caf-Expense-Analyses
+# Cafe-Expense-Analyses
 Café Sales and profits
